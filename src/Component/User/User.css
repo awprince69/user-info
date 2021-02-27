@@ -1,0 +1,14 @@
+.user-container{
+    display:flex;
+}
+
+.user-info{
+    width: 75%;
+    border-right: 1px solid lightgrey;
+    
+}
+
+.Container{
+    background-color:rgba(226, 226, 226, 0.925);
+    width:25%
+}

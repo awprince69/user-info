@@ -1,0 +1,20 @@
+.header-container{
+    height:70px;
+    
+}
+
+nav{
+    /* background-image: linear-gradient(purple,salmon); */
+    background-color: rgb(5, 152, 98);
+    height:70px;
+    text-align:right;
+}
+
+nav a{
+    text-decoration:none;
+    padding: 30px;
+    margin-right: 10px;
+    color: white;
+    font-size:15px;
+    font-weight: 600;
+}
